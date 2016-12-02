@@ -168,7 +168,6 @@ return [
          */
 		 
 		Collective\Html\HtmlServiceProvider::class,
-		Laracasts\Generators\GeneratorsServiceProvider::class,
 
         //
 
